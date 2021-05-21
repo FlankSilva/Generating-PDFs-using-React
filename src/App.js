@@ -1,6 +1,8 @@
+import { ReactToPrintExample } from './components/ReactToPrint'
+
 function App() {
   return (
-    <h1>Oi</h1>
+    <ReactToPrintExample />
   );
 }
 
